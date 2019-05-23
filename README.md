@@ -1,7 +1,4 @@
 # Monty's choice
-
-Hi! Thanks for having the chance to meet you the other day.
-Here is my code test.
 I have written a spring boot app with a rest service which will try to solve the problem.
 
 
